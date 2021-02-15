@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/downfrown-valley/static/css/main.31bae7bb.chunk.css",
+    "main.js": "/downfrown-valley/static/js/main.62ebd1f1.chunk.js",
+    "main.js.map": "/downfrown-valley/static/js/main.62ebd1f1.chunk.js.map",
+    "runtime-main.js": "/downfrown-valley/static/js/runtime-main.f79cbd9e.js",
+    "runtime-main.js.map": "/downfrown-valley/static/js/runtime-main.f79cbd9e.js.map",
+    "static/js/2.652913ad.chunk.js": "/downfrown-valley/static/js/2.652913ad.chunk.js",
+    "static/js/2.652913ad.chunk.js.map": "/downfrown-valley/static/js/2.652913ad.chunk.js.map",
+    "static/js/3.24b1aa87.chunk.js": "/downfrown-valley/static/js/3.24b1aa87.chunk.js",
+    "static/js/3.24b1aa87.chunk.js.map": "/downfrown-valley/static/js/3.24b1aa87.chunk.js.map",
+    "index.html": "/downfrown-valley/index.html",
+    "static/css/main.31bae7bb.chunk.css.map": "/downfrown-valley/static/css/main.31bae7bb.chunk.css.map",
+    "static/js/2.652913ad.chunk.js.LICENSE.txt": "/downfrown-valley/static/js/2.652913ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f79cbd9e.js",
+    "static/js/2.652913ad.chunk.js",
+    "static/css/main.31bae7bb.chunk.css",
+    "static/js/main.62ebd1f1.chunk.js"
+  ]
+}
