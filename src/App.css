@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+button{
+  cursor: pointer;
+}
+h1
+ { font-family: 'Reggae One', cursive;
+  font-size: 72px;
+  color: #0ccac4 ;
+}
+.footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
